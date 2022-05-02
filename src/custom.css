@@ -1,0 +1,575 @@
+* {
+   font-size: 14px; 
+}
+
+figcaption {
+    position: absolute;
+    bottom: 10rem;
+    margin: 0 20rem;
+}
+
+.aksonas {
+    position: absolute;
+    top: 21.5rem;
+    left: 23rem;
+}
+
+.elathrioA {
+    position: absolute;
+    top: 24.5rem;
+    left: 28.5rem;
+}
+
+.elathrioB {
+    position: absolute;
+    top: 26.0rem;
+    left: 30.5rem;
+}
+
+.elathrioC {
+    position: absolute;
+    top: 27.9rem;
+    left: 32.8rem;
+}
+
+.elathrioAtem {
+    position: absolute;
+    top: 32.5rem;
+    left: 23.5rem;
+}
+
+.elathrioBtem {
+    position: absolute;
+    top: 33.8rem;
+    left: 25rem;
+}
+
+.elathrioCtem {
+    position: absolute;
+    top: 35.2rem;
+    left: 27rem;
+}
+
+.platos {
+    position: absolute;
+    top: 57.2rem;
+    left: 36rem;
+}
+
+.mhkos {
+    position: absolute;
+    top: 37.5rem;
+    left: 30.5rem;
+}
+
+.mhkosProfilKophs {
+    position: absolute;
+    top: 14.6rem;
+    left: 31.3rem;
+}
+
+.ypsosStrantzaristou {
+    position: absolute;
+    top: 17rem;
+    left: 37rem;
+}
+
+.ypsosOdhgou {
+    position: absolute;
+    top: 17.9rem;
+    left: 22.4rem;
+}
+
+.ypsosDokariou {
+    position: absolute;
+    top: 15.1rem;
+    left: 32rem;
+}
+
+.ypsosDokariou2 {
+    position: absolute;
+    top: 18.1rem;
+    left: 35.4rem;
+}
+
+.ypsosXwrou {
+    position: absolute;
+    top: 18.3rem;
+    left: 29.5rem;
+}
+
+.ypsosXwrou2 {
+    position: absolute;
+    top: 21rem;
+    left: 33.1rem;
+}
+
+.anoigmaXwrou {
+    position: absolute;
+    top: 24.1rem;
+    left: 31.6rem;
+}
+
+.anoigmaXwrou2 {
+    position: absolute;
+    top: 31.2rem;
+    left: 36.5rem;
+}
+
+.platosMeTapes {
+    position: absolute;
+    top: 7.0rem;
+    left: 28.3rem;
+}
+
+.telikoYpsosKourtinas {
+    font-size: 13px;
+    position: absolute;
+    top: 21.1rem;
+    left: 40rem;
+}
+
+.sel7panw {
+    position: absolute;
+    top: 14.5rem;
+    left: 27rem;
+}
+
+.tilda {
+    position: absolute;
+    top: 19.7rem;
+    left: 31.7rem;
+}
+
+.sel7katw {
+    position: absolute;
+    top: 29.9rem;
+    left: 27.6rem;
+}
+
+.sel7aristera {
+    font-size: 13px;
+    position: absolute;
+    top: 24.6rem;
+    left: 21rem;
+}
+
+.ypsosOdhgouSel8 {
+    position: absolute;
+    top: 18.5rem;
+    left: 24.3rem;
+}
+
+.sel8MesiEpanw {
+    position: absolute;
+    top: 12.3rem;
+    left: 44.4rem;
+}
+
+.platosStrantzaristouF127 {
+    font-size: 13px;
+    position: absolute;
+    top: 34rem;
+    left: 30rem;
+}
+
+.vathosStrantzaristouF127 {
+    font-size: 13px;
+    position: absolute;
+    top: 34rem;
+    left: 35.3rem;
+}
+
+.ypsosStrantzaristouL358  {
+    position: absolute;
+    top: 17.9rem;
+    left: 80rem;
+}
+
+.G311  {
+    font-size: 23px;
+    position: absolute;
+    top: 18rem;
+    left: 68.8rem;
+}
+
+.I363 {
+    position: absolute;
+    top: 29.5rem;
+    left: 48.5rem;
+}
+
+.E364 {
+    position: absolute;
+    top: 24.5rem;
+    left: 40.4rem;
+}
+
+.I364 {
+    position: absolute;
+    top: 24.5rem;
+    left: 58.2rem;
+}
+
+.biom1PahosYlikou {
+    position: absolute;
+    top: 10.5rem;
+    left: 38.8rem;
+}
+
+.biom1MhkosYlikou {
+    position: absolute;
+    top: 16.8rem;
+    left: 29.2rem;
+}
+
+.biom1Diametros {
+    position: absolute;
+    top: 20.5rem;
+    left: 24.3rem;
+}
+
+.biom1Aksonaki {
+    position: absolute;
+    top: 29.2rem;
+    left: 41.5rem;
+}
+
+.biom1Aksonaki2 {
+    position: absolute;
+    top: 30rem;
+    left: 22rem;
+}
+
+.moterKouzineto {
+    font-weight: bold;
+    position: absolute;
+    top: 4.5rem;
+    left: 32.4rem;
+}
+
+.mhkosMeiwthra {
+    font-size: 13px;
+    position: absolute;
+    top: 7.6rem;
+    left: 31.6rem;
+}
+
+.ypsosMeiwthraSel3 {
+    position: absolute;
+    top: 8rem;
+    left: 52.5rem;
+} 
+
+.ypsosDokou {
+    position: absolute;
+    top: 20.2rem;
+    left: 23.1rem;
+}
+
+.ypsosDokou2 {
+    position: absolute;
+    top: 20.2rem;
+    left: 45.1rem;
+}
+
+.biom3platos {
+    position: absolute;
+    top: 32.9rem;
+    left: 20.9rem;
+}
+
+.biom3vathos {
+    position: absolute;
+    top: 34.5rem;
+    left: 27.8rem;
+}
+
+.biom3platos2 {
+    position: absolute;
+    top: 32.5rem;
+    left: 34rem;
+}
+
+.biom3vathos2 {
+    position: absolute;
+    top: 33.6rem;
+    left: 55rem;
+} 
+
+.ypsosMeiwthraDia2 {
+    position: absolute;
+    top: 12.9rem;
+    left: 30rem;
+}
+
+.ypsosMeiwthraDia2Aristera {
+    position: absolute;
+    top: 12.9rem;
+    left: 24rem;
+}
+
+.sel4MhkosMeiwthra{
+    position: absolute;
+    top: 8.8rem;
+    left: 30.2rem;
+}
+
+.ypsosMeiwthraDeksia {
+    font-size: 13px;
+    position: absolute;
+    top: 12rem;
+    left: 36.8rem;
+} 
+
+.ypsosMeiwthraKatw {
+    position: absolute;
+    top: 27.3rem;
+    left: 27.7rem;
+}
+
+.ypsosMeiwthraKatwDeksia {
+    position: absolute;
+    top: 34.5rem;
+    left: 36.5rem;
+} 
+
+.biom4ypodiaireshDeksia {
+    position: absolute;
+    top: 14.5rem;
+    left: 41.4rem;
+}
+
+.biom4ypodiairesh {
+    position: absolute;
+    top: 17.6rem;
+    left: 28.4rem;
+}
+
+.biom4ypodiairesh2 {
+    position: absolute;
+    top: 34.4rem;
+    left: 36.6rem;
+}
+
+.biom4ypodiairesh3 {
+    position: absolute;
+    top: 37rem;
+    left: 28.6rem;
+}
+
+.ypsosMeiwthraLigoKatw {
+    position: absolute;
+    top: 20.8rem;
+    left: 28.2rem;
+}
+
+.sxolia {
+    font-size: 15px;
+    position: absolute;
+    top: 51rem;
+    left: 28.2rem;
+
+}
+
+.twoPointFive1 {
+    position: absolute;
+    top: 4.7rem;
+    left: 35.8rem;
+}
+
+.twoPointFive2 {
+    position: absolute;
+    top: 7.6rem;
+    left: 41.8rem;
+}
+
+.twoPointFive3 {
+    position: absolute;
+    top: 12.7rem;
+    left: 45.3rem;
+}
+
+.twoPointFive4 {
+    font-size: 13px;
+    position: absolute;
+    top: 19rem;
+    left: 44.8rem;
+}
+
+.oneTwenty {
+    font-size: 13px;
+    position: absolute;
+    top: 25.5rem;
+    left: 40.8rem;
+}
+
+.biom8TermaKatw {
+    position: absolute;
+    top: 29.9rem;
+    left: 30.9rem;
+}
+
+.katwTetragwno8Epanw {
+    position: absolute;
+    top: 17rem;
+    left: 26rem;
+}
+
+.katwTetragwno8Deksia {
+    position: absolute;
+    top: 22.5rem;
+    left: 32.8rem;
+}
+
+.katwTetragwno8Aristera {
+    position: absolute;
+    top: 22.7rem;
+    left: 21.2rem;
+}
+
+.katwTetragwno8Katw {
+    position: absolute;
+    top: 27.9rem;
+    left: 26.4rem;
+}
+
+.sel9TetragwnoEpanw {
+    position: absolute;
+    top: 5.9rem;
+    left: 31.7rem;
+}
+
+.sel9TetragwnoDeksia {
+    position: absolute;
+    top: 11rem;
+    left: 35.1rem;
+}
+
+.sel9TetragwnoAristera {
+    position: absolute;
+    top: 11rem;
+    left: 29.1rem;
+}
+
+.sel9TetragwnoKatw {
+    position: absolute;
+    top: 16.7rem;
+    left: 31.2rem;
+}
+
+.katwTetragwno9Katw {
+    font-size: 13px;
+    position: absolute;
+    top: 13.7rem;
+    left: 29.2rem;
+}
+
+.epanwTetragwnoEpanw {
+    position: absolute;
+    top: 7.8rem;
+    left: 26.2rem;
+}
+
+.epanwTetragwnoAristera {
+    position: absolute;
+    top: 11.3rem;
+    left: 21.1rem;
+}
+
+.biom9EpanwDeksia {
+    position: absolute;
+    top: 8.9rem;
+    left: 36.4rem;
+}
+
+.sel9ypsosMeiwthra {
+    position: absolute;
+    top: 19rem;
+    left: 37rem;
+}
+
+.moterKouzineto2 {
+    position: absolute;
+    top: 17.7rem;
+    left: 33.4rem;
+}
+
+.mhkosMeiwthra9 {
+    position: absolute;
+    top: 19rem;
+    left: 29.4rem;
+}
+
+.biom9vathos {
+    position: absolute;
+    top: 40.0rem;
+    left: 38.9rem;
+}
+
+.biom9vathos2 {
+    position: absolute;
+    top: 40rem;
+    left: 32.2rem;
+}
+
+.biom9platos {
+    position: absolute;
+    top: 40rem;
+    left: 35.2rem;
+}
+
+.biom9platos2 {
+    position: absolute;
+    top: 40rem;
+    left: 26.9rem;
+}
+
+.ypsosOdhgou9 {
+    position: absolute;
+    top: 23.8rem;
+    left: 21.4rem;
+}
+
+.J321 {
+    position: absolute;
+    top: 24.6rem;
+    left: 34.4rem;
+}
+
+.G315 {
+    position: absolute;
+    top: 18.5rem;
+    left: 28.1rem;
+}
+
+.sel8G315 {
+    position: absolute;
+    top: 18.6rem;
+    left: 50rem;
+}
+
+.ypsosShmaiasSel8{
+    position: absolute;
+    top: 9.7rem;
+    left: 61.7rem;
+}
+
+.photo1 {
+  height: 500px;
+  width: 350px;
+  /* με absolute ΔΕΝ το βλέπω.. */
+  position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
+.photoL {
+    height: 500px;
+    width: 350px;
+}
+
+form label {
+    text-align: right;
+    font-family: 'Roboto', sans-serif;
+}

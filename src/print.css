@@ -1,0 +1,935 @@
+* {
+    font-size: 20px; 
+}
+
+@media only screen and (max-width: 768px) {
+    [class*="P1"] {
+        width: 100%;
+    }
+    [class*="P2"] {
+        width: 100%;
+    }
+    .no-print, .no-print *
+    {
+        display: block;
+    }
+}
+
+@media print
+{    
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+    
+    .print-width {
+        margin: 0.5cm;
+        margin-top: 85cm;
+    }
+
+    /* #content { width: 100%; margin: 0; float: none; font-size: 18px; }  */
+    [class*="P1"] {
+    font-size: 20px; 
+  }
+
+  [class*="P2"] {
+    font-size: 20px; 
+    margin-top: 1.2rem;
+  }
+
+  [class="P2mhkosProfilKophs"] {
+    font-size: 20px; 
+    margin-top: -1.2rem;
+  }
+
+  [class="P2moter"] {
+    font-size: 20px; 
+    margin-left: -1.9rem;
+    margin-top: -2.2rem;
+  }
+
+  [class="P2Kouzineto"] {
+    font-size: 20px; 
+    margin-left: -4.3rem;
+    margin-top: -2.2rem;
+  }
+
+  [class="P2mhkosMeiwthra"] {
+    font-size: 20px; 
+    margin-left: -0.3rem;
+    margin-top: -1.0rem;
+  }
+  [class="P2ypsosMeiwthraSel3"] {
+        position: absolute;
+        z-index: 1;
+    font-size: 20px; 
+    margin-left: -2.8rem;
+    margin-top: -1.0rem;
+  }
+  
+    [class="P2ypsosDokou"] {
+    font-size: 20px; 
+    margin-top: -0.2rem;
+    margin-left: -0.8rem;
+  }
+    [class="P2ypsosDokou2"] {
+    font-size: 20px; 
+    margin-top: -0.2rem;
+    margin-left: -0.8rem;
+  }
+
+    [class="P2biom3platos"] {
+    font-size: 20px; 
+    margin-top: 0.8rem;
+    margin-left: -1.5rem;
+  }
+      [class="P2biom3vathos"] {
+    font-size: 20px; 
+    margin-top: 0.2rem;
+    margin-left: 0.8rem;
+  }
+      [class="P2biom3platos2"] {
+    font-size: 20px; 
+    margin-top: -0.2rem;
+    margin-left: -1.8rem;
+  }
+      [class="P2biom3vathos2"] {
+    font-size: 20px; 
+    margin-top: -0.2rem;
+    margin-left: -4.8rem;
+  }
+    [class="P2biom4ypodiairesh3"] {
+    font-size: 18px; 
+    margin-top: -1rem;
+    margin-left: 2rem;
+  }
+   [class="ypsosDokariou2"] {
+    font-size: 20px; 
+    margin-top: -1.2rem;
+    margin-left: -0.3rem;
+  }
+   [class="P2ypsosXwrou2"] {
+    font-size: 20px; 
+    margin-top: -1.2rem;
+    margin-left: -0.3rem;
+  }
+[class="P2telikoYpsosKourtinas"] {
+    font-size: 20px; 
+    margin-top: -1rem;
+    margin-left: 1rem;
+  }
+[class="P2biom1PahosYlikou"] {
+    font-size: 20px; 
+    margin-top: -0.3rem;
+    margin-left: 1rem;
+  }
+  [class="P2biom1MhkosYlikou"] {
+    font-size: 20px; 
+    margin-top: -0.3rem;
+    margin-left: 1rem;
+  }
+[class="P2biom1Diametros"] {
+    font-size: 20px; 
+    margin-top: -0.3rem;
+    margin-left: 0.1rem;
+  }
+  [class="P2sel4MhkosMeiwthra"] {
+    font-size: 20px; 
+    margin-top: -0.3rem;
+    margin-left: 0.1rem;
+  }
+    [class="P2ypsosOdhgou9"] {
+    font-size: 20px; 
+    margin-top: -0.3rem;
+    margin-left: -0.1rem;
+  }
+
+
+/* width: 1200px;
+min-width: 1000px; */
+/* display:flex;
+justify-content:center;
+align-items:left; */
+/* .pagecontents {
+     width:100%;
+     border:0px;
+  } */
+
+}
+
+/* @media print and (min-width: 900px) { */
+    /* #Tab {
+        color: red !important;
+  display: none;
+} */
+  /* p.ListGroup {
+  color: red !important;
+  -webkit-print-color-adjust: exact; 
+  margin-left: -100px;
+
+  } */
+/* } */
+
+figcaption {
+    position: absolute;
+    bottom: 10rem;
+    margin: 0 20rem;
+}
+
+.selida {
+   font-size: 24px;
+   top: 21.5rem;
+    left: 23rem;
+   color: rgba(32, 38, 119);
+}
+
+/* .position-fixed {
+   font-size: 24px;
+   top: 21.5rem;
+    left: 23rem;
+   color: rgba(32, 38, 119);
+} */
+
+.P1aksonas {
+    position: absolute;
+    width: 40rem;
+    top: 11.5rem;
+    left: 23rem;
+}
+
+.P1elathrioA {
+    position: absolute;
+    top: 13.8rem;
+    left: 26.2rem;
+}
+
+.P1elathrioB {
+    position: absolute;
+    top: 15.7rem;
+    left: 29.4rem;
+}
+
+.P1elathrioC {
+    position: absolute;
+    top: 17.1rem;
+    left: 32.5rem;
+}
+
+.P1elathrioAtem {
+    position: absolute;
+    top: 22.4rem;
+    left: 20.0rem;
+}
+
+.P1elathrioBtem {
+    position: absolute;
+    top: 23.8rem;
+    left: 22.7rem;
+}
+
+.P1elathrioCtem {
+    position: absolute;
+    top: 25.0rem;
+    left: 25.5rem;
+}
+
+.P1platos {
+    position: absolute;
+    top: 38.8rem;
+    left: 38.5rem;
+}
+
+.P1mhkos {
+    position: absolute;
+    top: 26.5rem;
+    left: 32.5rem;
+}
+
+.P1mhkosProfilKophs {
+    font-size: 18px; 
+    position: absolute;
+    top: 20rem;
+    left: 40.8rem;
+}
+
+.P1ypsosStrantzaristou {
+    position: absolute;
+    top: 19.8rem;
+    left: 38.2rem;
+}
+
+.P1ypsosOdhgou {
+    position: absolute;
+    top: 20.8rem;
+    left: 22.2rem;
+}
+
+.P1ypsosDokariou {
+    position: absolute;
+    top: 14.1rem;
+    left: 30.9rem;
+}
+
+.ypsosDokariou2 {
+    position: absolute;
+    top: 14.1rem;
+    left: 32.3rem;
+}
+
+.P1ypsosXwrou {
+    position: absolute;
+    top: 17.7rem;
+    left: 27.5rem;
+}
+
+.P2ypsosXwrou2 {
+    position: absolute;
+    top: 20.5rem;
+    left: 31.8rem;
+}
+
+.P1anoigmaXwrou {
+    position: absolute;
+    top: 23.1rem;
+    left: 30.6rem;
+}
+
+.P2anoigmaXwrou2 {
+    position: absolute;
+    top: 27.8rem;
+    left: 34.9rem;
+}
+
+.P1platosMeTapes {
+    position: absolute;
+    top: 11.2rem;
+    left: 28.6rem;
+}
+
+.P1telikoYpsosKourtinas {
+    position: absolute;
+    top: 29.4rem;
+    left: 42.1rem;
+}
+
+.P1sel7panw {
+    position: absolute;
+    top: 22.9rem;
+    left: 26.0rem;
+}
+
+.P1sel7deksia {
+    position: absolute;
+    top: 19.7rem;
+    left: 31.7rem;
+}
+
+.P1sel7katw {
+    position: absolute;
+    top: 42.6rem;
+    left: 27.6rem;
+}
+
+.P1sel7aristera {
+    position: absolute;
+    top: 35.9rem;
+    left: 20.6rem;
+}
+
+.P1tilda {
+    position: absolute;
+    top: 29.7rem;
+    left: 32rem;
+}
+
+.P1ypsosOdhgouSel8 {
+    position: absolute;
+    top: 24.0rem;
+    left: 17.5rem;
+}
+
+.P1ypsosShmaiasSel8{
+    position: absolute;
+    top: 9.4rem;
+    left: 47.5rem;
+}
+
+.P1sel8MesiEpanw {
+    position: absolute;
+    top: 11.1rem;
+    left: 28.4rem;
+}
+
+.P1platosStrantzaristouF127 {
+    position: absolute;
+    top: 38.9rem;
+    left: 28.6rem;
+}
+
+.P1vathosStrantzaristouF127 {
+    position: absolute;
+    top: 38.9rem;
+    left: 38.4rem;
+}
+
+.P1ypsosStrantzaristouL358  {
+    position: absolute;
+    top: 20.1rem;
+    left: 59.9rem;
+}
+
+.G311  {
+    font-size: 23px;
+    position: absolute;
+    top: 18rem;
+    left: 68.8rem;
+}
+
+.P1I363 {
+    position: absolute;
+    top: 27.2rem;
+    left: 43.6rem;
+}
+
+.P1E364 {
+    position: absolute;
+    top: 27.2rem;
+    left: 24.3rem;
+}
+
+.P1369  {
+    position: absolute;
+    top: 34.4rem;
+    left: 33.3rem;
+}
+
+.I364 {
+    position: absolute;
+    top: 23.8rem;
+    left: 56.9rem;
+}
+
+.biom1PahosYlikou {
+    position: absolute;
+    top: 11.5rem;
+    left: 36.4rem;
+}
+
+.biom1MhkosYlikou {
+    position: absolute;
+    top: 19.9rem;
+    left: 29.4rem;
+}
+
+.biom1Diametros {
+    position: absolute;
+    top: 20.5rem;
+    left: 24.3rem;
+}
+
+.biom1Aksonaki {
+    position: absolute;
+    top: 29.8rem;
+    left: 36.5rem;
+}
+
+.biom1Aksonaki2 {
+    position: absolute;
+    top: 27.2rem;
+    left: 24.2rem;
+}
+
+.moterKouzineto {
+    position: absolute;
+    top: 4.5rem;
+    left: 32.4rem;
+}
+
+.mhkosMeiwthra {
+    position: absolute;
+    top: 7.6rem;
+    left: 29.6rem;
+}
+
+.ypsosMeiwthraSel3 {
+    position: absolute;
+    top: 8rem;
+    left: 49rem;
+} 
+
+.ypsosDokou {
+    position: absolute;
+    top: 18.9rem;
+    left: 21.1rem;
+}
+
+.ypsosDokou2 {
+    position: absolute;
+    top: 18.9rem;
+    left: 40.1rem;
+}
+
+.biom3platos {
+    position: absolute;
+    top: 28.9rem;
+    left: 20.9rem;
+}
+
+.biom3vathos {
+    position: absolute;
+    top: 30.9rem;
+    left: 26.6rem;
+}
+
+.biom3platos2 {
+    position: absolute;
+    top: 28.9rem;
+    left: 33rem;
+}
+
+.biom3vathos2 {
+    position: absolute;
+    top: 28.9rem;
+    left: 52rem;
+} 
+
+.ypsosMeiwthra {
+    position: absolute;
+    top: 8rem;
+    left: 28.2rem;
+}
+
+.ypsosMeiwthraDeksia {
+    position: absolute;
+    top: 12rem;
+    left: 36.8rem;
+} 
+
+.ypsosMeiwthraKatw {
+    position: absolute;
+    top: 21rem;
+    left: 27.4rem;
+}
+
+.ypsosMeiwthraKatwDeksia {
+    position: absolute;
+    top: 26rem;
+    left: 33.3rem;
+} 
+
+.biom4ypodiairesh {
+    position: absolute;
+    top: 25rem;
+    left: 22.4rem;
+}
+
+.biom4ypodiairesh2 {
+    position: absolute;
+    top: 27.4rem;
+    left: 25.4rem;
+}
+
+.biom4ypodiairesh3 {
+    position: absolute;
+    top: 14.1rem;
+    left: 25.4rem;
+}
+
+.ypsosMeiwthraLigoKatw {
+    position: absolute;
+    top: 10.8rem;
+    left: 28.2rem;
+}
+
+.sxolia {
+    font-size: 15px;
+    position: absolute;
+    top: 51rem;
+    left: 28.2rem;
+
+}
+
+.twoPointFive1 {
+    position: absolute;
+    top: 5.7rem;
+    left: 29.8rem;
+}
+
+.twoPointFive2 {
+    position: absolute;
+    top: 7.3rem;
+    left: 36.8rem;
+}
+
+.twoPointFive3 {
+    position: absolute;
+    top: 11.7rem;
+    left: 39.3rem;
+}
+
+.twoPointFive4 {
+    position: absolute;
+    top: 16.9rem;
+    left: 39.8rem;
+}
+
+.oneTwenty {
+    position: absolute;
+    top: 19.7rem;
+    left: 35.8rem;
+}
+
+.biom8TermaKatw {
+    position: absolute;
+    top: 22.9rem;
+    left: 29.1rem;
+}
+
+.katwTetragwno8Epanw {
+    position: absolute;
+    top: 13.7rem;
+    left: 25.2rem;
+}
+
+.katwTetragwno8Deksia {
+    position: absolute;
+    top: 17.7rem;
+    left: 30.1rem;
+}
+
+.katwTetragwno8Aristera {
+    position: absolute;
+    top: 17.7rem;
+    left: 21.2rem;
+}
+
+.katwTetragwno8Katw {
+    position: absolute;
+    top: 21.5rem;
+    left: 25.2rem;
+}
+
+.katwTetragwno9Epanw {
+    /* 13.7 */
+    position: absolute;
+    top: 5.9rem;
+    left: 29.2rem;
+}
+
+.katwTetragwno9Deksia {
+    position: absolute;
+    top: 9.7rem;
+    left: 31.1rem;
+}
+
+.katwTetragwno9Aristera {
+    position: absolute;
+    top: 9.7rem;
+    left: 27.2rem;
+}
+
+.katwTetragwno9Katw {
+    position: absolute;
+    top: 13.7rem;
+    left: 29.2rem;
+}
+
+.epanwTetragwnoEpanw {
+    position: absolute;
+    top: 7.3rem;
+    left: 25.2rem;
+}
+
+.epanwTetragwnoAristera {
+    position: absolute;
+    top: 10.2rem;
+    left: 20.2rem;
+}
+
+.biom9EpanwDeksia {
+    position: absolute;
+    top: 8rem;
+    left: 33.2rem;
+}
+
+.ypsosMeiwthraSel9 {
+    position: absolute;
+    top: 15.2rem;
+    left: 33.4rem;
+}
+
+.moterKouzineto2 {
+    position: absolute;
+    top: 14.5rem;
+    left: 30.4rem;
+}
+
+.mhkosMeiwthra9 {
+    position: absolute;
+    top: 15.3rem;
+    left: 27.4rem;
+}
+
+.biom9vathos {
+    position: absolute;
+    top: 29.0rem;
+    left: 34.9rem;
+}
+
+.biom9vathos2 {
+    position: absolute;
+    top: 29.0rem;
+    left: 29.2rem;
+}
+
+.biom9platos {
+    position: absolute;
+    top: 29.0rem;
+    left: 31.2rem;
+}
+
+.biom9platos2 {
+    position: absolute;
+    top: 29.0rem;
+    left: 25.9rem;
+}
+
+.ypsosOdhgou9 {
+    position: absolute;
+    top: 18.4rem;
+    left: 21.4rem;
+}
+
+/* .
+ {
+    position: absolute;
+    top: 35.6rem;
+    left: 35.8rem;
+} */
+
+.P1G315 {
+    position: absolute;
+    top: 28.3rem;
+    left: 28.7rem;
+}
+
+.P1J321{
+    position: absolute;
+    top: 35.7rem;
+    left: 35.3rem;
+}
+
+.P1sel8G315 {
+    position: absolute;
+    top: 20.2rem;
+    left: 33.8rem;
+}
+
+.P2biom1PahosYlikou {
+    position: absolute;
+    top: 13.8rem;
+    left: 46.2rem;
+}
+
+.P2biom1MhkosYlikou {
+    position: absolute;
+    top: 22.5rem;
+    left: 29.9rem;
+}
+
+.P2biom1Diametros {
+    position: absolute;
+    top: 28.0rem;
+    left: 25.3rem;
+}
+
+.P2biom1Aksonaki {
+    position: absolute;
+    top: 42.3rem;
+    left: 46.5rem;
+}
+
+.P2biom1Aksonaki2 {
+    position: absolute;
+    top: 39.0rem;
+    left: 26.5rem;
+}
+
+.P2mhkosProfilKophs {
+    position: absolute;
+    top: 18.7rem;
+    left: 37.5rem;
+}
+
+.P2moterKouzineto {
+    font-weight: bold;
+    position: absolute;
+    top: 4.5rem;
+    left: 28.4rem;
+}
+
+.P2moter {
+    font-weight: bold;
+    position: absolute;
+    top: 4.5rem;
+    left: 28.4rem;
+}
+
+.P2Kouzineto {
+    font-weight: bold;
+    position: absolute;
+    top: 4.5rem;
+    left: 48.4rem;
+}
+
+.P2mhkosMeiwthra {
+    position: absolute;
+    top: 7.4rem;
+    left: 30.6rem;
+}
+
+.P2ypsosMeiwthraSel3 {
+    position: absolute;
+    top: 7.4rem;
+    left: 51.9rem;
+} 
+
+.P2ypsosDokou {
+    position: absolute;
+    top: 20.4rem;
+    left: 24.1rem;
+}
+
+.P2ypsosDokou2 {
+    position: absolute;
+    top: 20.4rem;
+    left: 45.1rem;
+}
+
+.P2biom3platos {
+    position: absolute;
+    top: 32.9rem;
+    left: 21.9rem;
+}
+
+.P2biom3vathos {
+    position: absolute;
+    top: 33.9rem;
+    left: 32.6rem;
+}
+
+.P2biom3platos2 {
+    position: absolute;
+    top: 33.9rem;
+    left: 43rem;
+}
+
+.P2biom3vathos2 {
+    position: absolute;
+    top: 33.9rem;
+    left: 53rem;
+} 
+
+.P2biom4ypodiairesh3 {
+    position: absolute;
+    top: 36.1rem;
+    left: 27.4rem;
+}
+
+.P2ypsosOdhgou {
+    position: absolute;
+    top: 20.8rem;
+    left: 22.2rem;
+}
+
+.P2platosMeTapes {
+    position: absolute;
+    top: 5.2rem;
+    left: 28.6rem;
+}
+
+
+.P2ypsosOdhgou9 {
+    position: absolute;
+    top: 23.2rem;
+    left: 21.4rem;
+}
+
+.P2telikoYpsosKourtinas {
+    position: absolute;
+    top: 21.4rem;
+    left: 40.4rem;
+}
+
+.photoMon1 {
+  height: 505px;
+  width: 501px;
+  position: absolute;
+    top: 1px;
+    left: 5px;
+}
+
+.photo1 {
+  height: 600px;
+  width: 450px;
+  position: relative;
+    top: 50px;
+    left: 50px;
+}
+
+.photo2 {
+  height: 600px;
+  width: 450px;
+  position: relative;
+    top: 10px;
+    left: 50px;
+}
+
+.photoL {
+    height: 600px;
+    width: 600px;
+}
+
+.photoBiom1 {
+    height: 670px;
+    width: 502px;
+  /* position: absolute;
+    top: 1px;
+    left: 5px; */
+}
+
+.photoBiom2 {
+    height: 391px;
+    width: 489px;
+  /* position: absolute;
+    top: 1px;
+    left: 5px; */
+}
+
+.photoMon8_1 {
+  height: 579px;
+  width: 128px;
+  position: absolute;
+    top: 45px;
+    left: 195px;
+}
+
+.photoMon8_2 {
+  height: 531px;
+  width: 304px;
+  position: absolute;
+    top: 10px;
+    left: 285px;
+}
+
+.photoMon8_3 {
+  height: 569px;
+  width: 205px;
+  position: absolute;
+    top: 10px;
+    left: 665px;
+}
+form label {
+    text-align: right;
+    font-family: 'Roboto', sans-serif;
+}

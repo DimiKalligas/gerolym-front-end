@@ -1,3 +1,7 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
 .App {
   text-align: center;
 }
@@ -28,6 +32,10 @@
   color: #61dafb;
 }
 
+.bg-myLightBlue{
+  background-color: lightblue;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -35,4 +43,59 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.ml30 {
+  margin-left: 30px;
+}
+
+.mr30 {
+  margin-right: 30px;
+}
+
+.mt30 {
+  margin-top: 30px;
+}
+
+.photo {
+  height: 400px;
+  width: 300px;
+}
+/* ::-webkit-datetime-edit-year-field:not([aria-valuenow]),
+::-webkit-datetime-edit-month-field:not([aria-valuenow]),
+::-webkit-datetime-edit-day-field:not([aria-valuenow]) {
+    color: transparent;
+} */
+input[value=""]::-webkit-datetime-edit{ color: transparent; }
+input:focus::-webkit-datetime-edit{ color: #000; }
+
+/* remove form input spin boxes */
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
+}
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+/* nav link in one line */
+.navbar-nav {
+  width: 600px;
+  /* white-space: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden; */
+}
+
+.nav-link {
+  margin-left: 1rem;
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.navbar-brand {
+  margin-left: 1rem;
+  margin-bottom: 0.3rem;
 }

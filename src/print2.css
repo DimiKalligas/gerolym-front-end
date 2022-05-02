@@ -1,0 +1,630 @@
+* {
+   font-size: 14px; 
+}
+
+@media only screen and (max-width: 768px) {
+  [class*="P1"] {
+    width: 100%;
+  }
+}
+
+@media print {
+    #Tab {
+        /* color: red !important; */
+  display: none;
+}
+  p.ListGroup {
+  /* color: red !important; */
+  -webkit-print-color-adjust: exact; 
+  margin-left: -100px;
+
+  }
+}
+
+figcaption {
+    position: absolute;
+    bottom: 10rem;
+    margin: 0 20rem;
+}
+
+.P1aksonas {
+    position: absolute;
+    top: 11.5rem;
+    left: 23rem;
+}
+
+.P1elathrioA {
+    position: absolute;
+    top: 14.8rem;
+    left: 28.5rem;
+}
+
+.P1elathrioB {
+    position: absolute;
+    top: 17.1rem;
+    left: 32rem;
+}
+
+.P1elathrioC {
+    position: absolute;
+    top: 18.9rem;
+    left: 34rem;
+}
+
+.P1elathrioAtem {
+    position: absolute;
+    top: 23.8rem;
+    left: 23.0rem;
+}
+
+.P1elathrioBtem {
+    position: absolute;
+    top: 25.6rem;
+    left: 24.9rem;
+}
+
+.P1elathrioCtem {
+    position: absolute;
+    top: 27.1rem;
+    left: 27rem;
+}
+
+.P1platos {
+    position: absolute;
+    top: 46.7rem;
+    left: 35.5rem;
+}
+
+.P1mhkos {
+    position: absolute;
+    top: 26.5rem;
+    left: 32.5rem;
+}
+
+.P1mhkosProfilKophs {
+    font-size: 13px;
+    position: absolute;
+    top: 19.6rem;
+    left: 40rem;
+}
+
+.ypsosStrantzaristou {
+    font-size: 13px;
+    position: absolute;
+    top: 15.8rem;
+    left: 31rem;
+}
+
+.ypsosOdhgou {
+    font-size: 13px;
+    position: absolute;
+    top: 18.2rem;
+    left: 31rem;
+}
+
+.ypsosDokariou {
+    font-size: 13px;
+    position: absolute;
+    top: 15.1rem;
+    left: 32rem;
+}
+
+.ypsosDokariou2 {
+    font-size: 13px;
+    position: absolute;
+    top: 14.1rem;
+    left: 32.3rem;
+}
+
+.ypsosXwrou {
+    font-size: 13px;
+    position: absolute;
+    top: 18.3rem;
+    left: 29.5rem;
+}
+
+.ypsosXwrou2 {
+    font-size: 13px;
+    position: absolute;
+    top: 16.5rem;
+    left: 29.1rem;
+}
+
+.anoigmaXwrou {
+    font-size: 13px;
+    position: absolute;
+    top: 23.1rem;
+    left: 31.6rem;
+}
+
+.anoigmaXwrou2 {
+    font-size: 13px;
+    position: absolute;
+    top: 22.2rem;
+    left: 31.5rem;
+}
+
+.platosMeTapes {
+    font-size: 13px;
+    position: absolute;
+    top: 7.0rem;
+    left: 27.9rem;
+}
+
+.telikoYpsosKourtinas {
+    font-size: 13px;
+    position: absolute;
+    top: 20.1rem;
+    left: 38.6rem;
+}
+
+.sel7panw {
+    font-size: 13px;
+    position: absolute;
+    top: 14.9rem;
+    left: 27.3rem;
+}
+
+.sel7deksia {
+    font-size: 13px;
+    position: absolute;
+    top: 19.7rem;
+    left: 31.7rem;
+}
+
+.sel7katw {
+    font-size: 13px;
+    position: absolute;
+    top: 28.6rem;
+    left: 28.1rem;
+}
+
+.sel7aristera {
+    font-size: 13px;
+    position: absolute;
+    top: 23.9rem;
+    left: 22.1rem;
+}
+
+.ypsosOdhgouSel8 {
+    font-size: 13px;
+    position: absolute;
+    top: 18.5rem;
+    left: 24.3rem;
+}
+
+.sel8MesiEpanw {
+    font-size: 13px;
+    position: absolute;
+    top: 13.1rem;
+    left: 44.4rem;
+}
+
+.platosStrantzaristouF127 {
+    font-size: 13px;
+    position: absolute;
+    top: 29.9rem;
+    left: 31.3rem;
+}
+
+.vathosStrantzaristouF127 {
+    font-size: 13px;
+    position: absolute;
+    top: 29.9rem;
+    left: 35.3rem;
+}
+
+.ypsosStrantzaristouL358  {
+    font-size: 13px;
+    position: absolute;
+    top: 17.9rem;
+    left: 68.8rem;
+}
+
+.G311  {
+    font-size: 23px;
+    position: absolute;
+    top: 18rem;
+    left: 68.8rem;
+}
+
+.I363 {
+    font-size: 13px;
+    position: absolute;
+    top: 28.1rem;
+    left: 48.3rem;
+}
+
+.E364 {
+    font-size: 13px;
+    position: absolute;
+    top: 23.8rem;
+    left: 40.4rem;
+}
+
+.I364 {
+    font-size: 13px;
+    position: absolute;
+    top: 23.8rem;
+    left: 56.9rem;
+}
+
+.biom1PahosYlikou {
+    font-size: 13px;
+    position: absolute;
+    top: 11.5rem;
+    left: 36.4rem;
+}
+
+.biom1MhkosYlikou {
+    font-size: 13px;
+    position: absolute;
+    top: 19.9rem;
+    left: 29.4rem;
+}
+
+.biom1Diametros {
+    font-size: 13px;
+    position: absolute;
+    top: 20.5rem;
+    left: 24.3rem;
+}
+
+.biom1Aksonaki {
+    font-size: 13px;
+    position: absolute;
+    top: 29.8rem;
+    left: 36.5rem;
+}
+
+.biom1Aksonaki2 {
+    font-size: 13px;
+    position: absolute;
+    top: 27.2rem;
+    left: 24.2rem;
+}
+
+.moterKouzineto {
+    font-size: 13px;
+    position: absolute;
+    top: 4.5rem;
+    left: 32.4rem;
+}
+
+.mhkosMeiwthra {
+    font-size: 13px;
+    position: absolute;
+    top: 7.6rem;
+    left: 29.6rem;
+}
+
+.ypsosMeiwthraSel3 {
+    font-size: 13px;
+    position: absolute;
+    top: 8rem;
+    left: 49rem;
+} 
+
+.ypsosDokou {
+    font-size: 13px;
+    position: absolute;
+    top: 18.9rem;
+    left: 21.1rem;
+}
+
+.ypsosDokou2 {
+    font-size: 13px;
+    position: absolute;
+    top: 18.9rem;
+    left: 40.1rem;
+}
+
+.biom3platos {
+    font-size: 13px;
+    position: absolute;
+    top: 28.9rem;
+    left: 20.9rem;
+}
+
+.biom3vathos {
+    font-size: 13px;
+    position: absolute;
+    top: 30.9rem;
+    left: 26.6rem;
+}
+
+.biom3platos2 {
+    font-size: 13px;
+    position: absolute;
+    top: 28.9rem;
+    left: 33rem;
+}
+
+.biom3vathos2 {
+    font-size: 13px;
+    position: absolute;
+    top: 28.9rem;
+    left: 52rem;
+} 
+
+.ypsosMeiwthra {
+    font-size: 13px;
+    position: absolute;
+    top: 8rem;
+    left: 28.2rem;
+}
+
+.ypsosMeiwthraDeksia {
+    font-size: 13px;
+    position: absolute;
+    top: 12rem;
+    left: 36.8rem;
+} 
+
+.ypsosMeiwthraKatw {
+    font-size: 13px;
+    position: absolute;
+    top: 21rem;
+    left: 27.4rem;
+}
+
+.ypsosMeiwthraKatwDeksia {
+    font-size: 13px;
+    position: absolute;
+    top: 26rem;
+    left: 33.3rem;
+} 
+
+.biom4ypodiairesh {
+    font-size: 13px;
+    position: absolute;
+    top: 25rem;
+    left: 22.4rem;
+}
+
+.biom4ypodiairesh2 {
+    font-size: 13px;
+    position: absolute;
+    top: 27.4rem;
+    left: 25.4rem;
+}
+
+.biom4ypodiairesh3 {
+    font-size: 13px;
+    position: absolute;
+    top: 14.1rem;
+    left: 25.4rem;
+}
+
+.ypsosMeiwthraLigoKatw {
+    font-size: 13px;
+    position: absolute;
+    top: 10.8rem;
+    left: 28.2rem;
+}
+
+.sxolia {
+    font-size: 15px;
+    position: absolute;
+    top: 51rem;
+    left: 28.2rem;
+
+}
+
+.twoPointFive1 {
+    font-size: 13px;
+    position: absolute;
+    top: 5.7rem;
+    left: 29.8rem;
+}
+
+.twoPointFive2 {
+    font-size: 13px;
+    position: absolute;
+    top: 7.3rem;
+    left: 36.8rem;
+}
+
+.twoPointFive3 {
+    font-size: 13px;
+    position: absolute;
+    top: 11.7rem;
+    left: 39.3rem;
+}
+
+.twoPointFive4 {
+    font-size: 13px;
+    position: absolute;
+    top: 16.9rem;
+    left: 39.8rem;
+}
+
+.oneTwenty {
+    font-size: 13px;
+    position: absolute;
+    top: 19.7rem;
+    left: 35.8rem;
+}
+
+.biom8TermaKatw {
+    font-size: 13px;
+    position: absolute;
+    top: 22.9rem;
+    left: 29.1rem;
+}
+
+.katwTetragwno8Epanw {
+    font-size: 13px;
+    position: absolute;
+    top: 13.7rem;
+    left: 25.2rem;
+}
+
+.katwTetragwno8Deksia {
+    font-size: 13px;
+    position: absolute;
+    top: 17.7rem;
+    left: 30.1rem;
+}
+
+.katwTetragwno8Aristera {
+    font-size: 13px;
+    position: absolute;
+    top: 17.7rem;
+    left: 21.2rem;
+}
+
+.katwTetragwno8Katw {
+    font-size: 13px;
+    position: absolute;
+    top: 21.5rem;
+    left: 25.2rem;
+}
+
+.katwTetragwno9Epanw {
+    /* 13.7 */
+    font-size: 13px;
+    position: absolute;
+    top: 5.9rem;
+    left: 29.2rem;
+}
+
+.katwTetragwno9Deksia {
+    font-size: 13px;
+    position: absolute;
+    top: 9.7rem;
+    left: 31.1rem;
+}
+
+.katwTetragwno9Aristera {
+    font-size: 13px;
+    position: absolute;
+    top: 9.7rem;
+    left: 27.2rem;
+}
+
+.katwTetragwno9Katw {
+    font-size: 13px;
+    position: absolute;
+    top: 13.7rem;
+    left: 29.2rem;
+}
+
+.epanwTetragwnoEpanw {
+    font-size: 13px;
+    position: absolute;
+    top: 7.3rem;
+    left: 25.2rem;
+}
+
+.epanwTetragwnoAristera {
+    font-size: 13px;
+    position: absolute;
+    top: 10.2rem;
+    left: 20.2rem;
+}
+
+.biom9EpanwDeksia {
+    font-size: 13px;
+    position: absolute;
+    top: 8rem;
+    left: 33.2rem;
+}
+
+.ypsosMeiwthraSel9 {
+    font-size: 13px;
+    position: absolute;
+    top: 15.2rem;
+    left: 33.4rem;
+}
+
+.moterKouzineto2 {
+    font-size: 13px;
+    position: absolute;
+    top: 14.5rem;
+    left: 30.4rem;
+}
+
+.mhkosMeiwthra9 {
+    font-size: 13px;
+    position: absolute;
+    top: 15.3rem;
+    left: 27.4rem;
+}
+
+.biom9vathos {
+    font-size: 13px;
+    position: absolute;
+    top: 29.0rem;
+    left: 34.9rem;
+}
+
+.biom9vathos2 {
+    font-size: 13px;
+    position: absolute;
+    top: 29.0rem;
+    left: 29.2rem;
+}
+
+.biom9platos {
+    font-size: 13px;
+    position: absolute;
+    top: 29.0rem;
+    left: 31.2rem;
+}
+
+.biom9platos2 {
+    font-size: 13px;
+    position: absolute;
+    top: 29.0rem;
+    left: 25.9rem;
+}
+
+.ypsosOdhgou9 {
+    font-size: 13px;
+    position: absolute;
+    top: 18.4rem;
+    left: 21.4rem;
+}
+
+.J321 {
+    font-size: 13px;
+    position: absolute;
+    top: 23.6rem;
+    left: 34.4rem;
+}
+
+.G315 {
+    font-size: 13px;
+    position: absolute;
+    top: 18.5rem;
+    left: 28.1rem;
+}
+
+.sel8G315 {
+    font-size: 13px;
+    position: absolute;
+    top: 18.6rem;
+    left: 49.1rem;
+}
+
+.photo1 {
+  height: 600px;
+  width: 450px;
+  position: relative;
+    top: 50px;
+    left: 50px;
+}
+
+.photo2 {
+  height: 600px;
+  width: 450px;
+  position: relative;
+    top: 10px;
+    left: 50px;
+}
+
+form label {
+    text-align: right;
+    font-family: 'Roboto', sans-serif;
+}
